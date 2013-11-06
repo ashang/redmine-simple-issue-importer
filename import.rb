@@ -6,7 +6,6 @@ csvFile = "data.csv"
 
 host = '10.55.10.13'
 port = '3000'
-path = '/issues.json'
 key = 'e3dad26b1b87228ca344506a87fa936b2444e569' # redmine api key
 
 
